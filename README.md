@@ -9,11 +9,15 @@ Developing Blackjack game, and using TCP to communicate between server and clien
 - Wongsakorn Pinvasee 6210400175
 - Tananat Kometjamikorn 6210406581
 
+## Install
+```pip install -r requiments.txt```
+
 ## Run
+
 ### Server
 ```python Server.py```
 
 ### Client
-```python Client.py```
+```python Blackjack.py```
 host: localhost
 port: 8082
